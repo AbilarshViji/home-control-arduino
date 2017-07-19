@@ -10,7 +10,7 @@
 
 #include <IRremote.h>
 
-#define RECV_PIN 11
+#define RECV_PIN 14
 
 IRrecv irrecv(RECV_PIN);
 

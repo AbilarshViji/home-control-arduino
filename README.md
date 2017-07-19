@@ -1,6 +1,8 @@
 home-control-arduino
 ====================
 
+EDIT: Modified to work with Uberhaus A/C
+
 Arduino projects and Python tools for my home control system.
 
 
